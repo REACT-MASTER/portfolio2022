@@ -1,0 +1,8 @@
+.projects {
+    display: flex;
+    background-color: rgb(24, 28, 31);
+    color: rgb(208, 218, 228);
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
