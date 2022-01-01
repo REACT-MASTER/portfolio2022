@@ -1,0 +1,31 @@
+.contact {
+    
+    top:10%;
+    padding-top: 10px;
+    background-color: rgb(10, 13, 15);
+    color: white;
+    font-size: 20px;
+    border-radius: 10px;
+    text-align: center;
+    height: fit-content;
+}
+
+.title {
+    margin-top: 5px;
+}
+
+
+.contact__info {
+    display: flex;
+    flex-direction: column;
+    font-size: 10px ;
+    color: white;
+    border: 1px solid lightgray;
+    border-bottom: 0;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+
+    padding-bottom: 10px;
+    align-items: center;
+
+}
